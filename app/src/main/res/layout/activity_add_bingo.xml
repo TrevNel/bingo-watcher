@@ -16,6 +16,7 @@
         android:layout_gravity="top|left"
         android:clickable="true"
         android:onClick="addBingoGame"
+        app:elevation="0dp"
         app:fabSize="mini"
         app:layout_anchor="@+id/include"
         app:layout_anchorGravity="bottom|right"
